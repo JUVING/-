@@ -9,4 +9,6 @@
 
 
 75장의 사진으로 2000회 반복
+
+
 ![image](https://github.com/JUVING/Fabric-defect-detection/assets/129962308/0d8265ad-d6c5-444e-8ad0-fd48311a0c72)
